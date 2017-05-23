@@ -7,3 +7,4 @@ git status
 git status --pretty=oneline
 git reset --hard HEAD^
 git reset --hard HEAD~100
+git tracks changes
